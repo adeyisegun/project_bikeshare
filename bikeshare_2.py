@@ -331,13 +331,13 @@ def view_raw_data(df):
     view_df = input('\nWould you like to view the bikeshare data? Type yes or no.\n')
     if view_df.lower()  == 'yes':
         print(df[0:5])
-        view_more = input('\nWould you like to view more data? Enter yes or no.\n')
+        view_more = input('\nWould you like to view more data? Type yes or no.\n')
         if view_more.lower() == 'yes':
             i = 5
             while i <= df.size and view_more.lower() == 'yes':
                 print(df[i:i+5])
                 i += 5
-                view_more = input('\nWould you like to view more data? Enter yes or no.\n')
+                view_more = input('\nWould you like to view more data? Type yes or no.\n')
 
 
 def main():
