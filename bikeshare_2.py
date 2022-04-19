@@ -10,8 +10,8 @@ CITY_DATA = { 'chicago': 'chicago.csv',
               'washington': 'washington.csv' }
 
 print('*'*80)
-print('\nHello! This program aims to explore data related to bike share systems for three major cities')
-print('in the United States — Chicago, New York City, and Washington.')
+print('\nHello! This program aims to explore data related to bike share systems for three major cities in the United States')
+print('Chicago, New York City, and Washington.')
 print('-'*40)
 print('\nBefore we proceed, lets check if you have the data (.csv files) for the respective cities we intend to explore\n')
 print('-'*10)
