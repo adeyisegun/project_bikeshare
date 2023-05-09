@@ -1,12 +1,26 @@
-Bike Share Data
+# Bike Share Data Analysis
 
-In this project, we made use of Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. We wrote code to import the data and answer interesting questions about it by computing descriptive statistics. We also wrote a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
+![Bike Share](bike_share.jpg)
 
-Over the past decade, bicycle-sharing systems have been growing in number and popularity in cities across the world. Bicycle-sharing systems allow users to rent bicycles on a very short-term basis for a price. This allows people to borrow a bike from point A and return it at point B, though they can also return it to the same location if they'd like to just go for a ride. Regardless, each bike can serve several users per day.
+## Project Overview
+The Bike Share Data project involved exploring and analyzing data from bike share systems in three prominent cities in the United States: Chicago, New York City, and Washington. The goal of this project was to gain meaningful insights into bike share trends and patterns, contributing to informed decision-making for urban transportation planning and infrastructure development.
 
-Thanks to the rise in information technologies, it is easy for a user of the system to access a dock within the system to unlock or return bicycles. These technologies also provide a wealth of data that can be used to explore how these bike-sharing systems are used.
+## Data Exploration and Analysis
+Python code was utilized to import the bike share data and perform data manipulation tasks. Descriptive statistics were calculated to extract valuable insights from the dataset. Key metrics such as ride frequency, duration, and user demographics were analyzed to understand the usage patterns in each city.
 
-In this project, we used data provided by Motivate, a bike share system provider for many major cities in the United States, to uncover bike share usage patterns. We compared the system usage between three large cities: Chicago, New York City, and Washington.
+## Interactive Terminal Experience
+To enhance the user experience, a script was developed that allows users to interact with the data through a terminal interface. Users can input raw data and receive informative statistics in return. This interactive feature provides a convenient way to explore the bike share data and gain specific insights tailored to the user's needs.
+
+## Project Highlights
+- Import and manipulate bike share data using Python
+- Calculate descriptive statistics to uncover key insights
+- Develop an interactive terminal script for data exploration
+- Analyze ride frequency, duration, and user demographics
+- Visualize data to illustrate bike share trends and patterns
+
+## Conclusion
+The Bike Share Data project showcases proficiency in data manipulation, statistical analysis, and script development using Python. The findings and visualizations derived from this analysis contribute to a deeper understanding of bike share trends and patterns. By leveraging this knowledge, informed decisions can be made regarding urban transportation planning and infrastructure development, ultimately improving the efficiency and accessibility of bike share systems.
+
 
 To download the dataset
 https://drive.google.com/file/d/1Bzi0Mm9fz0CwcMbJi9JbQw0Jc3XJ7pmc/view?usp=sharing
