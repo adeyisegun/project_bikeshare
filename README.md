@@ -1,4 +1,4 @@
-# Bike Share Data Analysis....
+# Bike Share Data Analysis.
 
 ![Bike Share](bike_share.jpg)
 
